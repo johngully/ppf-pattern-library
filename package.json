@@ -1,0 +1,15 @@
+{
+  "name": "ppf-test-harness",
+  "version": "0.0.1-alpha.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Gully",
+  "license": "MIT",
+  "dependencies": {
+    "patternpack": "../ppf"
+  }
+}
